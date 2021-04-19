@@ -54,3 +54,8 @@ stah changes
         >git stash pop
 
  
+ merge diffrent commits to single commit 
+
+ >git merge branchname --squash
+
+ 
