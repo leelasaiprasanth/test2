@@ -1,0 +1,31 @@
+Hello World
+
+
+git initialization:
+
+>git init 
+
+remove intialized git 
+
+>rm -rf .git
+
+create file
+
+>touch .gitignore
+
+stage file
+
+>git add .
+
+unstage files 
+
+>git reset .
+
+delet for ever 
+
+>git reset --hard
+
+
+git commit to branch
+
+>git commit -m "My First commit😁

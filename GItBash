@@ -1,0 +1,227 @@
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ cd
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ git config --global user.name "leelasaiprasanth"
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ git config --global user.email "leelasaibheesetti@gmail.com"
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ c:
+bash: c:: command not found
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ c/
+bash: c/: No such file or directory
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ cd C/
+bash: cd: C/: No such file or directory
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ dir
+3D\ Objects
+AndroidStudioProjects
+AppData
+Application\ Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+Favorites
+IntelGraphicsProfiles
+Links
+Local\ Settings
+Music
+My\ Documents
+NTUSER.DAT
+NTUSER.DAT{de4f01b8-77fd-11eb-8068-f50d2fa28617}.TM.blf
+NTUSER.DAT{de4f01b8-77fd-11eb-8068-f50d2fa28617}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{de4f01b8-77fd-11eb-8068-f50d2fa28617}.TMContainer00000000000000000002.regtrans-ms
+NetHood
+OneDrive
+Pictures
+PrintHood
+Recent
+Saved\ Games
+Searches
+SendTo
+Start\ Menu
+Templates
+Videos
+_viminfo
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+vimfiles
+
+leela@DESKTOP-BR15DH1 MINGW64 ~
+$ cd Downloads/
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads
+$ ls
+ 13216600.pdf
+ BL_AgileRender_DownloadPirate.com.zip
+ BL_HumanGenerator1.0_DownloadPirate.com.zip.zip
+'Balley Pose.fbx'
+'Balley Pose.images'/
+'Chunbuns UX Bootcamp Resume.pdf'
+'EC 2.83 v20200325 GTX.7z'
+ EpicInstaller-12.1.1-0843ce568ac34b468107dd89dcd8c74a.msi
+'Hand - Paint me.zip'
+ IBALauncher.exe*
+ Jethani_SkinMat.rar
+ MK-Leather-SM-Free.rar
+ NateHallinan-SpiderWebBrushes.abr
+ NateHallinan-Spiderweb-Tutorial.pdf
+'Render Time Calculator v2.1.2.exe'*
+'SID Addon 2_85.zip'
+'UIUX Designer Resume_Complex version.ai'
+ UnityHubSetup.exe*
+'WhatsApp Image 2021-04-12 at 10.30.21 AM.jpeg'
+ aerith-60.jpg
+ desktop.ini
+ ecorche-by-Dmitry-Fedorov-dec.obj
+ ndp48-web.exe*
+ studio_small_03_4k.hdr
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads
+$ ll
+total 466705
+-rw-r--r-- 1 leela 197609    355131 Apr 10 09:40  13216600.pdf
+-rw-r--r-- 1 leela 197609    137202 Apr 12 15:15  BL_AgileRender_DownloadPirate.com.zip
+-rw-r--r-- 1 leela 197609  63698998 Apr 12 15:10  BL_HumanGenerator1.0_DownloadPirate.com.zip.zip
+-rw-r--r-- 1 leela 197609  24231824 Apr  6 17:36 'Balley Pose.fbx'
+drwxr-xr-x 1 leela 197609         0 Apr  6 17:36 'Balley Pose.images'/
+-rw-r--r-- 1 leela 197609   2146533 Apr  7 21:39 'Chunbuns UX Bootcamp Resume.pdf'
+-rw-r--r-- 1 leela 197609 148281320 Apr 12 15:12 'EC 2.83 v20200325 GTX.7z'
+-rw-r--r-- 1 leela 197609  56827904 Apr 19 12:32  EpicInstaller-12.1.1-0843ce568ac34b468107dd89dcd8c74a.msi
+-rw-r--r-- 1 leela 197609  11722500 Apr  1 11:53 'Hand - Paint me.zip'
+-rwxr-xr-x 1 leela 197609  39659608 Apr 10 14:40  IBALauncher.exe*
+-rw-r--r-- 1 leela 197609   1676424 Apr 15 21:07  Jethani_SkinMat.rar
+-rw-r--r-- 1 leela 197609  11596325 Apr 10 23:20  MK-Leather-SM-Free.rar
+-rw-r--r-- 1 leela 197609   3914140 Apr 15 21:24  NateHallinan-SpiderWebBrushes.abr
+-rw-r--r-- 1 leela 197609   2570442 Apr 15 21:24  NateHallinan-Spiderweb-Tutorial.pdf
+-rwxr-xr-x 1 leela 197609   1409536 Apr 11 14:48 'Render Time Calculator v2.1.2.exe'*
+-rw-r--r-- 1 leela 197609     32048 Apr 12 15:17 'SID Addon 2_85.zip'
+-rw-r--r-- 1 leela 197609   4023371 Apr  7 21:09 'UIUX Designer Resume_Complex version.ai'
+-rwxr-xr-x 1 leela 197609  54011672 Apr 19 12:33  UnityHubSetup.exe*
+-rw-r--r-- 1 leela 197609    172249 Apr 12 10:30 'WhatsApp Image 2021-04-12 at 10.30.21 AM.jpeg'
+-rw-r--r-- 1 leela 197609    628900 Apr 15 21:08  aerith-60.jpg
+-rw-r--r-- 1 leela 197609       282 Feb 26 14:11  desktop.ini
+-rw-r--r-- 1 leela 197609  23263756 Apr 10 23:23  ecorche-by-Dmitry-Fedorov-dec.obj
+-rwxr-xr-x 1 leela 197609   1479400 Apr 19 13:02  ndp48-web.exe*
+-rw-r--r-- 1 leela 197609  26015571 Apr  1 11:54  studio_small_03_4k.hdr
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads
+$ git clone https://github.com/leelasaiprasanth/Test.git
+Cloning into 'Test'...
+remote: Enumerating objects: 19, done.
+remote: Counting objects: 100% (19/19), done.
+remote: Compressing objects: 100% (14/14), done.
+remote: Total 19 (delta 8), reused 10 (delta 4), pack-reused 0
+Receiving objects: 100% (19/19), done.
+Resolving deltas: 100% (8/8), done.
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads
+$ cd Test/
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ ls
+README.md  openwebpage.py  openwebpage.py~  performence.py
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ --help
+bash: --help: command not found
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ -help
+bash: -help: command not found
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ ?
+bash: ?: command not found
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .performence.py.un~
+        modified:   performence.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        performence.py~
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ gti commit -m "First bash commit" performence.py .performence.py.un~
+bash: gti: command not found
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git commit -m "First bash commit" performence.py .performence.py.un~
+[master e79fe10] First bash commit
+ 2 files changed, 1 insertion(+)
+ rewrite .performence.py.un~ (86%)
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git push -u origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 525 bytes | 262.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/leelasaiprasanth/Test.git
+   21a39b5..e79fe10  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   .openwebpage.py.un~
+        modified:   openwebpage.py
+        modified:   openwebpage.py~
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        performence.py~
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git commit -m "second bash commit" openwebpage.py openwebpage.py~ .openwebpage.py.un~
+[master 4975b91] second bash commit
+ 3 files changed, 23 insertions(+), 20 deletions(-)
+ rewrite .openwebpage.py.un~ (86%)
+ rewrite openwebpage.py~ (86%)
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$ git push -u origin master
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 478 bytes | 478.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/leelasaiprasanth/Test.git
+   e79fe10..4975b91  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+leela@DESKTOP-BR15DH1 MINGW64 ~/Downloads/Test (master)
+$
