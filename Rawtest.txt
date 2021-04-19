@@ -58,4 +58,10 @@ stah changes
 
  >git merge branchname --squash
 
- 
+ add remote origin
+
+ >git remote add origin Link
+
+    push to repo
+
+    >git push -u origin master
