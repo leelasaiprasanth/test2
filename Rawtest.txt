@@ -1,6 +1,8 @@
 Hello World
 
 
+
+
 git initialization:
 
 >git init 
@@ -29,3 +31,13 @@ delet for ever
 git commit to branch
 
 >git commit -m "My First commit😁
+
+show branches
+
+>git branch
+
+create new branch 
+
+>git checkout -b branchname
+
+
