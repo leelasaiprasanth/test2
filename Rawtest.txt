@@ -40,4 +40,17 @@ create new branch
 
 >git checkout -b branchname
 
+check branches
 
+>git branch
+
+
+stah changes
+
+>git stash -u 
+
+        show changes
+
+        >git stash pop
+
+ 
